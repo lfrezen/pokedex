@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0683f7d9-747b-4bdb-8978-322c595ec091": {
+      "ProjectGuid": "0683f7d9-747b-4bdb-8978-322c595ec091",
+      "DisplayName": "Pokedex.App",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

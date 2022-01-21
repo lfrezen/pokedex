@@ -1,0 +1,14 @@
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.csproj.AssemblyReference.cache
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.csproj.SuggestedBindingRedirects.cache
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.frmPrincipal.resources
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.Properties.Resources.resources
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.csproj.GenerateResource.cache
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.csproj.CoreCompileInputs.cache
+C:\Dev\pokedex\Pokedex\Pokedex.App\bin\Debug\Pokedex.App.exe.config
+C:\Dev\pokedex\Pokedex\Pokedex.App\bin\Debug\Pokedex.App.exe
+C:\Dev\pokedex\Pokedex\Pokedex.App\bin\Debug\Pokedex.App.pdb
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.exe
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.pdb
+C:\Dev\pokedex\Pokedex\Pokedex.App\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\pokedex\Pokedex\Pokedex.App\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\pokedex\Pokedex\Pokedex.App\obj\Debug\Pokedex.App.csproj.CopyComplete
